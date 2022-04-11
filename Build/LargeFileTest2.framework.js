@@ -1299,7 +1299,7 @@ function _zappar_issue_js_plugin_upload_gl_event() {
  window.zappar_native_callbacks.upload_gl();
 }
 STATIC_BASE = GLOBAL_BASE;
-STATICTOP = STATIC_BASE + 3149984;
+STATICTOP = STATIC_BASE + 3128448;
 __ATINIT__.push({
  func: (function() {
   __GLOBAL__sub_I_AccessibilityScriptingClasses_cpp();
@@ -3373,7 +3373,7 @@ __ATINIT__.push({
   ___emscripten_environ_constructor();
  })
 });
-var STATIC_BUMP = 3149984;
+var STATIC_BUMP = 3128448;
 Module["STATIC_BASE"] = STATIC_BASE;
 Module["STATIC_BUMP"] = STATIC_BUMP;
 var tempDoublePtr = STATICTOP;
@@ -17094,8 +17094,8 @@ function nullFunc_vjji(x) {
  err("Build with ASSERTIONS=2 for more info.");
  abort(x);
 }
-Module["wasmTableSize"] = 94786;
-Module["wasmMaxTableSize"] = 94786;
+Module["wasmTableSize"] = 86546;
+Module["wasmMaxTableSize"] = 86546;
 function invoke_dddi(index, a1, a2, a3) {
  var sp = stackSave();
  try {
