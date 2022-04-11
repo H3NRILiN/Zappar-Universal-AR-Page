@@ -1299,7 +1299,7 @@ function _zappar_issue_js_plugin_upload_gl_event() {
  window.zappar_native_callbacks.upload_gl();
 }
 STATIC_BASE = GLOBAL_BASE;
-STATICTOP = STATIC_BASE + 3115104;
+STATICTOP = STATIC_BASE + 3117888;
 __ATINIT__.push({
  func: (function() {
   __GLOBAL__sub_I_AccessibilityScriptingClasses_cpp();
@@ -3373,7 +3373,7 @@ __ATINIT__.push({
   ___emscripten_environ_constructor();
  })
 });
-var STATIC_BUMP = 3115104;
+var STATIC_BUMP = 3117888;
 Module["STATIC_BASE"] = STATIC_BASE;
 Module["STATIC_BUMP"] = STATIC_BUMP;
 var tempDoublePtr = STATICTOP;
